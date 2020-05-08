@@ -1,6 +1,6 @@
 # GoFinances server
 API para prover a aplicação web: https://github.com/evertonmadeira/desafio07bootcamp
-##Tecnologias envolvidas
+## Tecnologias envolvidas
 - Node.js
 - TypeScript
 - Express
