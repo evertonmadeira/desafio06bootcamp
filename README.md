@@ -1,6 +1,12 @@
 # GoFinances server
 API para prover a aplicação web: https://github.com/evertonmadeira/desafio07bootcamp
-
+##Tecnologias envolvidas
+- Node.js
+- TypeScript
+- Express
+- TypeORM
+- Postgres
+- Docker
 ## Instalação
 Depois de clonado o projeto, ainda no terminal, digite o seguinte comando no diretório raiz do projeto:
 ```
